@@ -1,5 +1,5 @@
  
-<h2>Hey there I'm Christopher, a Cyber Security enthusiast and <a href="https://www.linkedin.com/in/chriswhernandez/">IT Professional</a></h2>
+<h2>Hey there I'm Christopher, a Cyber Security enthusiast and an <a href="https://www.linkedin.com/in/chriswhernandez/">IT Professional</a></h2>
 
 <h2>👨‍💻 Information Technology Projects</h2>
 
