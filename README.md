@@ -8,13 +8,13 @@
   - [osTicket: Post-Installation Configuration](https://github.com/chriswhernandez/osTicket-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/chriswhernandez/osTicket-Ticket-Lifecycle-Examples)
   
-- <b>Microsoft Azure</b> (I am currently working on this)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chriswhernandez/Active-Directory-Configuration)
+- <b>Microsoft Azure</b>
   - [Azure Virtual Machines Traffic Inspection](https://github.com/chriswhernandez/Azure-Networks-and-Protocols)
-  - [Azure Active Directory Overview (User & Group Creation/Access Management Configuration)](https://github.com/chriswhernandez/Azure-AD-Overview)
-  - [Azure Active Directory SecOps Demonstration](https://github.com/chriswhernandez/Azure-Sec-Ops)
-  - [Azure KQL Demonstration](https://github.com/chriswhernandez/Azure-KQL-Demo)
-  - [Azure Cloud SOC](https://github.com/chriswhernandez/Azure-Cloud-SOC)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chriswhernandez/Active-Directory-Configuration) (In progress)
+  - [Azure Active Directory Overview (User & Group Creation/Access Management Configuration)](https://github.com/chriswhernandez/Azure-AD-Overview) (In progress)
+  - [Azure Active Directory SecOps Demonstration](https://github.com/chriswhernandez/Azure-Sec-Ops) (In progress)
+  - [Azure KQL Demonstration](https://github.com/chriswhernandez/Azure-KQL-Demo) (In progress)
+  - [Azure Cloud SOC](https://github.com/chriswhernandez/Azure-Cloud-SOC) (In progress)
 
 <h2>🤳Connect with me:</h2>
 
