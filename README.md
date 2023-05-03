@@ -2,11 +2,6 @@
 <h2>Hey there I'm Chris, a Cybersecurity enthusiast and an <a href="https://www.linkedin.com/in/chriswhernandez/">IT Professional</a></h2>
 
 <h2>👨‍💻 Information Technology Projects</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/chriswhernandez/osTicket-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/chriswhernandez/osTicket-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/chriswhernandez/osTicket-Ticket-Lifecycle-Examples)
   
 - <b>Microsoft Azure</b>
   - [Azure Virtual Machines Traffic Inspection](https://github.com/chriswhernandez/Azure-Networks-and-Protocols)
@@ -15,6 +10,11 @@
   - [Azure Active Directory SecOps Demonstration](https://github.com/chriswhernandez/Azure-Sec-Ops) (In progress)
   - [Azure KQL Demonstration](https://github.com/chriswhernandez/Azure-KQL-Demo) (In progress)
   - [Azure Cloud SOC](https://github.com/chriswhernandez/Azure-Cloud-SOC) (In progress)
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/chriswhernandez/osTicket-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/chriswhernandez/osTicket-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/chriswhernandez/osTicket-Ticket-Lifecycle-Examples)
 
 <h2>🤳Connect with me:</h2>
 
