@@ -11,6 +11,9 @@
   - [Azure KQL Demonstration](https://github.com/chriswhernandez/Azure-KQL-Demo) (In progress)
   - [Azure Cloud SOC](https://github.com/chriswhernandez/Azure-Cloud-SOC) (In progress)
 
+- <b>Tenable Nessus Essentials (Vulnerability Scanner)</b>
+  - [Tenable Nessus: Prerequisites & Installation, Basic Scan vs. Credentialed Scan, Redediation](https://github.com/chriswhernandez/tenable-nessus-essentials)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/chriswhernandez/osTicket-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/chriswhernandez/osTicket-Configuration)
