@@ -11,6 +11,11 @@
   - [Azure KQL Demonstration](https://github.com/chriswhernandez/Azure-KQL-Demo) (In progress)
   - [Azure Cloud SOC](https://github.com/chriswhernandez/Azure-Cloud-SOC) (In progress)
 
+- <b>Amazon Web Services (AWS)</b>
+
+- <b>Splunk</b>
+  - [Creating a Basic Chart](https://github.com/chriswhernandez/Basic-Chart-Creation) (In progress)
+
 - <b>Tenable Nessus Essentials (Vulnerability Scanner)</b>
   - [Tenable Nessus: Prerequisites & Installation, Basic Scan vs. Credentialed Scan, Remediation](https://github.com/chriswhernandez/tenable-nessus-essentials)
 
